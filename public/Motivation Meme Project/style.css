@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.poster {
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 25%;
+    color: white;
+    font-family: "Architects Daughter", cursive;
+    text-align: center;
+    
+}
+
+.motivation-img {
+    border: 5px solid white;
+}
